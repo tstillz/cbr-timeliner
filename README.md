@@ -1,6 +1,6 @@
 # Timeline Builder for Carbon Black Response
 This tool is a quick script written to export tagged items within a specific Carbon Black Response investigation into timelines. 
-These timelines can be ingested by the SOC/IR teams for further analysis.
+These timelines can be ingested by the SOC/IR team for further analysis.
 
 > Outputs all tagged events into a timeline (two export methods):
 - All events per your investigation 
