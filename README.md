@@ -2,6 +2,8 @@
 This tool is a quick script written to export tagged items within a specific Carbon Black Response investigation into timelines. 
 These timelines can be ingested by the SOC/IR team for further analysis.
 
+Writeup on this tool can be foud here: https://blog.stillztech.com/2018/09/carbon-black-response-timeliner.html
+
 > Outputs all tagged events into a timeline (two export methods):
 - All events per your investigation 
 - Only events for the hostname specified
